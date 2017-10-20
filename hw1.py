@@ -6,4 +6,4 @@ hello_world = 'Hello World!'
 repeat_times = 10
 summ = 1 + 10 + int('11')
 
-print((hello_world + ' ') * repeat_times + "\n" + summ)
+print((hello_world + ' ') * repeat_times + "\n" + str(summ))
